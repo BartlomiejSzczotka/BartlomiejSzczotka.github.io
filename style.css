@@ -8,7 +8,7 @@ body {
 }
 
 .jumbotron  {
-    display: table-cell;
+    display: flex;
     vertical-align: middle;
     background-color: #cccccc;
     margin-top: 15vh;
@@ -21,7 +21,7 @@ a:link, a:visited {
 }
 
 i.fab.fa-linkedin, i.fa-github-square, i.fa-envelope, i.fa-pinterest-square, i.fa-stack-overflow, i.fa-wordpress{
-    font-size: 11vw;
+    font-size: 10vw;
 }
 
 .container {
