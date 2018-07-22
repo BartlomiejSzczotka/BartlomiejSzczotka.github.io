@@ -6,12 +6,14 @@ html {
 body {
     margin-bottom: 60px; /* Margin bottom by footer height */
 }
-
+.footer .text-muted{
+    font-size: 2vh;
+}
 .jumbotron  {
     display: table-cell;
     vertical-align: middle;
     background-color: #cccccc;
-    margin-top:120px;
+    margin-top: 15vh;
 }
 
 a:link, a:visited {
@@ -29,7 +31,7 @@ i.fab.fa-linkedin, i.fa-github-square, i.fa-envelope, i.fa-pinterest-square, i.f
 }
 
 .container.contact-us {
-    margin-top:50px;
+    margin-top:5vh;
     width: auto;
 }
 .container i{
