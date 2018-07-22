@@ -6,9 +6,7 @@ html {
 body {
     margin-bottom: 60px; /* Margin bottom by footer height */
 }
-.footer .text-muted{
-    font-size: 2vh;
-}
+
 .jumbotron  {
     display: table-cell;
     vertical-align: middle;
@@ -35,7 +33,7 @@ i.fab.fa-linkedin, i.fa-github-square, i.fa-envelope, i.fa-pinterest-square, i.f
     width: auto;
 }
 .container i{
-    padding: 5px;
+    padding-left: 10px;
 }
 
 .btn-primary {
@@ -54,8 +52,9 @@ i.fab.fa-linkedin, i.fa-github-square, i.fa-envelope, i.fa-pinterest-square, i.f
     position: absolute;
     bottom: 0;
     width: 100%;
-    height: 60px; /* Set the fixed height of the footer here */
+    /* Set the fixed height of the footer here */
+    height: 60px;
     line-height: 60px; /* Vertically center the text there */
-    text-align: center;
     background-color: #e6e6e6;
+    text-align: center;
 }
