@@ -1,0 +1,16 @@
+.container.contact-us {
+    margin-top:5vh;
+    width: auto;
+}
+.btn-primary {
+    color:#6c757d;
+    background-color: #cccccc;
+    border-color: #cccccc;
+    box-shadow: none;
+}
+.btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active:focus
+.btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:focus{
+    background-color: #a6a6a6;
+    border-color: #a6a6a6;
+    box-shadow: none;
+}

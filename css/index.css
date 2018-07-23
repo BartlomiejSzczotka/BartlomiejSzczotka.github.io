@@ -1,0 +1,21 @@
+.jumbotron  {
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #cccccc;
+    margin-top: 15vh;
+    padding:5vh 0px;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
+
+i.fab.fa-linkedin, i.fa-github-square, i.fa-envelope, i.fa-pinterest-square, i.fa-stack-overflow, i.fa-wordpress{
+    font-size: 12vw;
+}
+
+.container i{
+    padding-left: 10px;
+}
