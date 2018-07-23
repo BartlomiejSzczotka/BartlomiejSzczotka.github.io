@@ -8,10 +8,11 @@ body {
 }
 
 .jumbotron  {
-    display: flex;
+    display: table-cell;
     vertical-align: middle;
     background-color: #cccccc;
     margin-top: 15vh;
+    padding:5vh 0px;
 }
 
 a:link, a:visited {
