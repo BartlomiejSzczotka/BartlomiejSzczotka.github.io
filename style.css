@@ -22,11 +22,13 @@ a:link, a:visited {
 }
 
 i.fab.fa-linkedin, i.fa-github-square, i.fa-envelope, i.fa-pinterest-square, i.fa-stack-overflow, i.fa-wordpress{
-    font-size: 10vw;
+    font-size: 12vw;
 }
 
 .container {
     width: auto;
+    margin-left:auto;
+    margin-right:auto;
 }
 
 .container.contact-us {
