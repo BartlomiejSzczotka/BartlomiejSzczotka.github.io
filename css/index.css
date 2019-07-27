@@ -19,3 +19,7 @@ i.fab.fa-linkedin, i.fa-github-square, i.fa-envelope, i.fa-pinterest-square, i.f
 .container i{
     padding-left: 10px;
 }
+
+i.fab.fa-wordpress {
+    display: none;
+}
